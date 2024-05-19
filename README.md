@@ -1,6 +1,7 @@
 Basic Banking application using SpringBoot 3.
 tomcat url - http://localhost:8182/api/accounts
 -----------------------------------------------------------------------------------------
+POSTMAN api config - use below link in postman to Read, Write, Update, Delete
 Add account.
 POST - http://localhost:8182/api/accounts
 {
